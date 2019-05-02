@@ -70,4 +70,11 @@ These buttons are responsible for running your application on a webserver. The f
 ![Screenshot](https://files.nbg.gr/studio/public-url.PNG)<br />
 ***CAUTION*** <br />
 Every project that you want to run and be able to browse its public url needs to have a Procfile. More information about that [here](https://help.sourcelair.com/webserver/procfiles/)
+Every project runs on a container behind a reverse proxy .
+Default exposed containter ports per container type are
+|                |PORT                          
+|----------------|------------------------------
+|Node|`3000`            
+|Python|`8000`          
+|PHP|self managed no Procfile 
 
