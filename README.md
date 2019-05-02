@@ -1,6 +1,4 @@
-![Screenshot
-
-https://microsites.nbg.gr/api.gateway/publicportal/sites/default/files/2018-11/black_logo.jpg) 
+![Screenshot](https://microsites.nbg.gr/api.gateway/publicportal/sites/default/files/2018-11/black_logo.jpg) 
 # Developer Studio User Guide
 By introducing **NBG Developer Studio**, NBG's effort is to help developers continue their hard work on the cloud, without having to install dependencies on their host machines and also take advantage of the resources of this platform. That way, a developer can continue his work from everywhere in the world.
 ## Login
