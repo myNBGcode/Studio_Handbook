@@ -76,6 +76,7 @@ Default exposed containter ports per container type are
 |                |PORT                          
 |----------------|------------------------------
 |Node|`3000`            
-|Python|`8000`          
-|PHP|self managed no Procfile 
+|Python|`8000`
+|NET.Core|`5000`
+|PHP|`8000` no procfile needed
 
